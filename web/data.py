@@ -133,7 +133,7 @@ PROYECTOS = [
             "digital de las fotos en alta resolución."
         ),
         "tecnologias": ["FastAPI", "Tailwind", "Yape"],
-        "estado": "Completo",
+        "estado": "En producción",
         "url_github": "",
         "url_web": "",
     },
