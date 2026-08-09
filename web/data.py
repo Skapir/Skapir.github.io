@@ -13,6 +13,9 @@ PERFIL = {
     "cv_url_en": "web/cv/CV_Sergio_Perez_EN.pdf",
     "github": "https://github.com/Skapir",
     "linkedin": "https://www.linkedin.com/in/sergio-perez-nateros",
+    # numero en formato wa.me (sin +, sin espacios) y como se muestra
+    "whatsapp": "51994400662",
+    "whatsapp_display": "+51 994 400 662",
 }
 
 SOBRE_MI = (
