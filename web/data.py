@@ -38,18 +38,18 @@ SOBRE_MI_2 = (
 TRABAJO = [
     {
         "titulo": "Desarrollador de Software Independiente",
-        "texto": "Consultoría y desarrollo a medida — sector salud y retail (remoto): POS de farmacia con trazabilidad FEFO, middleware HL7 para dispensador AMIS-850, e-commerce fotográfico.",
-        "fecha": "2024 — Actualidad",
+        "texto": "Consultoría y desarrollo a medida - sector salud y retail (remoto): POS de farmacia con trazabilidad FEFO, middleware HL7 para dispensador AMIS-850, e-commerce fotográfico.",
+        "fecha": "2024 - Actualidad",
     },
     {
-        "titulo": "Hospital I Tingo María — EsSalud · Desarrollador Backend / Analista de Sistemas",
+        "titulo": "EsSalud, Hospital I Tingo María · Desarrollador Backend / Analista de Sistemas",
         "texto": "Área de Referencias: automatización end-to-end del flujo de referencias médicas, integración con REFCON/SGSS y ESSI vía ingeniería inversa HTTP, reportes ejecutivos automatizados con Python.",
-        "fecha": "2021 — Actualidad",
+        "fecha": "2021 - Actualidad",
     },
     {
-        "titulo": "Hospital I Tingo María — EsSalud · Digitador Asistencial",
+        "titulo": "EsSalud, Hospital I Tingo María · Digitador Asistencial",
         "texto": "Rotación por áreas asistenciales y administrativas: registro y validación de información clínica en ESSI, REFCON y SGSS. Conocimiento end-to-end de los flujos hospitalarios.",
-        "fecha": "Abr 2013 — 2021",
+        "fecha": "Abr 2013 - 2021",
     },
 ]
 
@@ -57,12 +57,12 @@ EDUCACION = [
     {
         "titulo": "Universidad Tecnológica del Perú (UTP)",
         "texto": "Título Profesional de Ingeniero de Sistemas e Informática (2026) · Bachiller (2021)",
-        "fecha": "2015 — 2021",
+        "fecha": "2015 - 2021",
     },
     {
         "titulo": "Platzi",
         "texto": "Ruta de Desarrollo Backend con Python · Scrum Profesional · Django REST Framework · Frontend Developer",
-        "fecha": "2022 — 2025",
+        "fecha": "2022 - 2025",
     },
     {
         "titulo": "Edutin Academy",
@@ -141,7 +141,7 @@ PROYECTOS = [
         "url_web": "",
     },
     {
-        "titulo": "Punto de Venta — Farmacia",
+        "titulo": "Punto de Venta - Farmacia",
         "descripcion": (
             "POS e inventario para farmacia con registro DIGEMID: caja, "
             "fidelización de clientes y control de lotes con trazabilidad "
@@ -153,7 +153,7 @@ PROYECTOS = [
         "url_web": "",
     },
     {
-        "titulo": "Middleware HL7 — AMIS-850",
+        "titulo": "Middleware HL7 - AMIS-850",
         "descripcion": (
             "Capa middleware que permite a una clínica con infraestructura HL7 "
             "operar un dispensador de medicamentos AMIS-850 que solo expone "
