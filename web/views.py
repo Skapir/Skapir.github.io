@@ -3,16 +3,18 @@ from django.shortcuts import render
 from . import data
 
 
-def index(request):
+def index(request, lang="es"):
+    t = data.TEXTOS[lang]
     return render(
         request,
         "web/index.html",
         {
             "perfil": data.PERFIL,
-            "sobre_mi": data.SOBRE_MI,
-            "sobre_mi_2": data.SOBRE_MI_2,
-            "trabajo": data.TRABAJO,
-            "educacion": data.EDUCACION,
-            "proyectos": data.PROYECTOS,
+            "t": t,
+            "ui": t["ui"],
+            "lang": lang,
+            # URL de la version en el otro idioma (para el selector ES/EN)
+            "url_es": "/",
+            "url_en": "/en/",
         },
     )
