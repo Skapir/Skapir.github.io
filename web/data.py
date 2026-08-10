@@ -25,12 +25,11 @@ TEXTOS = {
         "cv_principal": "web/cv/CV_Sergio_Perez_ES.pdf",
         "wa_msg": "Hola%20Sergio,%20vi%20tu%20portafolio%20web",
         "sobre_mi": (
-            "Ingeniero de Sistemas e Informática con más de 13 años en el sector salud "
-            "público peruano, los últimos cuatro dedicados al desarrollo backend y la "
-            "puesta en producción de sistemas de automatización en un entorno hospitalario "
-            "de alta demanda. Especializado en integrar sistemas legacy sin API pública "
-            "mediante ingeniería inversa de tráfico HTTP, y en convertir procesos "
-            "burocráticos manuales en flujos automatizados."
+            "Ingeniero de Sistemas e Informática con 5 años construyendo y poniendo en "
+            "producción sistemas backend en Python, sobre una base de 13 años dentro del "
+            "sistema de salud público peruano. Especializado en integrar sistemas legacy "
+            "sin API pública mediante ingeniería inversa de tráfico HTTP, y en convertir "
+            "procesos burocráticos manuales en flujos automatizados."
         ),
         "sobre_mi_2": (
             "Stack principal: Python (FastAPI, Django), PostgreSQL, HTMX y Playwright. "
@@ -182,11 +181,11 @@ TEXTOS = {
         "cv_principal": "web/cv/CV_Sergio_Perez_EN.pdf",
         "wa_msg": "Hi%20Sergio,%20I%20saw%20your%20portfolio",
         "sobre_mi": (
-            "Systems and Computer Engineer with 13+ years in Peru's public healthcare "
-            "sector, the last four building and shipping production automation systems "
-            "inside a high-volume hospital. Specialized in integrating closed legacy "
-            "systems with no public API by reverse-engineering their HTTP traffic, and "
-            "in replacing manual bureaucratic processes with automated pipelines."
+            "Systems and Computer Engineer with 5 years building and shipping production "
+            "backend systems in Python, on top of 13 years inside Peru's public healthcare "
+            "system. Specialized in integrating closed legacy systems with no public API "
+            "by reverse-engineering their HTTP traffic, and in replacing manual "
+            "bureaucratic processes with automated pipelines."
         ),
         "sobre_mi_2": (
             "Core stack: Python (FastAPI, Django), PostgreSQL, HTMX and Playwright. "
